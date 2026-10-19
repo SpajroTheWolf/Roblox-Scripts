@@ -1,7 +1,5 @@
 # Frutiger Aero Tycoon Script
 
-A Roblox Luau script with a Kavo UI for automating selected Frutiger Aero Tycoon tasks.
-
 ## Features
 
 ### Auto Farms
@@ -20,7 +18,6 @@ A Roblox Luau script with a Kavo UI for automating selected Frutiger Aero Tycoon
 ## Requirements and notes
 
 - The script expects the game to provide the tycoon objects and values it uses, such as `Workspace.Plots`, `TempValues.Plot`, `leaderstats`, and the rebirth remote event.
-- It loads Kavo UI from the repository URL in the script. The execution environment must support the APIs used by the script, including `loadstring` and `game:HttpGet`.
 - Game updates or differences in object names and layout may make individual features stop working.
 
 ## Run Code (lazy people)
